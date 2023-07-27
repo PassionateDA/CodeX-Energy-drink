@@ -1,2 +1,2 @@
 # CodeX-Energy-drink
-Codebasic resume challenge #6 CodeX energy drink analysis report
+Codebasic resume challenge #6 CodeX energy drink survey analysis report
